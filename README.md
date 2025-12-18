@@ -1,9 +1,8 @@
 ## Hello,
 
-
 - 🔭 I’m currently working on building my career as a Data Analyst
-- 🌱 I’m currently learning AI, SQL, Python and Dashboarding
-- I have years of experience working in the fraud department
-- I also have an accounting business diploma
+- I Know how to use SQL, Excel, Power BI, Python
+- I have years of experience working in the fraud department for a major bank
+- I have a business accounting diploma
 
-- I am excited to learn all there is to know about Tech and watching it shape our future ! 
+- I want to learn AI, Machine Learning, Advanced Python, and improve all current skills I have. 
